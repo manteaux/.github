@@ -25,7 +25,7 @@ We are not one business, one industry, and not one product.  We should do anythi
 
 We believe our software should be open and free to the public. This means shipping our software with Open Source licenses and letting anyone who wishes use our software.
 
-We are believers in a push for public good, so anyone using our software should be a privilege not a chore or artifact.
+We are believers in a push for public good, and believe for everyone to help contribute to Anavereum to foster a healthy, happy, stable open community.
 
 ## Everyone Gets A Say
 
