@@ -33,4 +33,4 @@ We are believers in a push for public good, so anyone using our software should 
 
 We believe everyone should get a fair say in all actions. If they believe X might be better than the proposed Y and come with valid reasonings and criticisms, their word should be taken at face value and not be taken for granted.
 
-Once any organization locks up who gets a say is when the public is no longer who they're target is, instead it becomes investors and stockholders.
+Once any organization locks up who gets a say is when the public is no longer who their target is, instead it becomes investors and stockholders.
