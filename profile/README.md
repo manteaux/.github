@@ -1,15 +1,16 @@
-# Anavereum
+# Manteaux
 
-Welcome! This is the main Anavereum organization and where most of the
-core work into Anavereum software goes on.
+Welcome! This is the main Manteaux organization and where most of the
+core work into Manteaux software goes on.
 
 For some of our other projects:
 
-- [Derailed](https://github.com/derailedapp)
+- [Derailed](https://github.com/derailedapp) - Transparent and open alternative to Discord, Twitter and Reddit
+- Venera - Open and transparent alternative to TikTok, YouTube, and Twitch.
 
 # Manifesto
 
-Date: *November 10, 2024*
+Last Updated: *December 12, 2024*
 
 ## People Before Profit
 
@@ -25,7 +26,7 @@ We are not one business, one industry, and not one product.  We should do anythi
 
 We believe our software should be open and free to the public. This means shipping our software with Open Source licenses and letting anyone who wishes use our software.
 
-We are believers in a push for public good, and believe for everyone to help contribute to Anavereum to foster a healthy, happy, stable open community.
+We are believers in a push for public good, and believe for everyone to help contribute to Manteaux to foster a healthy, happy, stable open community.
 
 ## Everyone Gets A Say
 
